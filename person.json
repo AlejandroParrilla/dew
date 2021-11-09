@@ -11,7 +11,10 @@
     "iban":"ES2222222222222222222222",
     "credit":"5555 6666 7777 8888",
     "password":"Csas1234#",
-    "Rpassword":"Csas1234#"
+    "Rpassword":"Csas1234#",
+    "permissions": [
+    "https://www.google.com/"
+    ]
   }
 ]
     
